@@ -4,8 +4,8 @@ IFPS LINKS-
 1. https://ipfs.io/ipfs/QmbHVdib3JqbohgAhEnbhhB2GLm33FTYCE4ZPHPCbZ36ts
 2. https://ipfs.io/ipfs/QmcVmWz3t42Mzpadotovg5trowHUw1YTz4qdKgfNpcVSC3
 
-ERC721-tokens etherscan contract address: https://rinkeby.etherscan.io/address/0x964a6c0fB338B7F82Adf49f38FecD19cDaE3bf5d
-ERC20-tokens etherscan contract address: https://rinkeby.etherscan.io/address/0x2d2A3c86FC01482Db8DeD9c4a1d99956F8a07687
+ERC721-tokens etherscan contract address: https://rinkeby.etherscan.io/address/0x8F0F31acC387829cDE20626517D5Da6aCA00827C
+ERC20-tokens etherscan contract address: https://rinkeby.etherscan.io/address/0x650fC629dEFC7240DC0A50767A579cF2B947D026
 
 MetaData Structure:
 {
